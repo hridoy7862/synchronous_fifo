@@ -1,0 +1,28 @@
+# Vivado generated files
+.Xil/
+*.jou
+*.log
+*.str
+
+# Vivado project-generated directories
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+
+# Vivado project file
+# Uncomment if you don't want to track the Vivado project
+# *.xpr
+
+# XSim generated files
+xsim.dir/
+*.wdb
+*.pb
+*.backup.jou
+*.backup.log
+
+# Simulation waveforms
+*.vcd
+
+# Temporary / crash files
+hs_err_pid*
